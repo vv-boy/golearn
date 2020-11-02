@@ -58,6 +58,7 @@ func TestMyStruct(t *testing.T) {
 	if err != nil {
 		fmt.Println(err.Error())
 	}
+
 	err = yaml.Unmarshal(yamlFile, &c)
 	if err != nil {
 		fmt.Println(err.Error())
