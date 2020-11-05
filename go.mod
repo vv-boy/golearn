@@ -10,5 +10,6 @@ require (
 	github.com/mailru/easyjson v0.7.6
 	github.com/monaco-io/request v1.0.5
 	github.com/pelletier/go-toml v1.8.1
+	github.com/stretchr/testify v1.6.1
 	gopkg.in/yaml.v2 v2.3.0
 )
