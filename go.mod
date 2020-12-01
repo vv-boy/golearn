@@ -11,5 +11,6 @@ require (
 	github.com/monaco-io/request v1.0.5
 	github.com/pelletier/go-toml v1.8.1
 	github.com/stretchr/testify v1.6.1
+	go.uber.org/dig v1.10.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 )
